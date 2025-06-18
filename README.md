@@ -33,11 +33,24 @@ Computer Vision Lab, Department of Computer Engineering
 
 ---
 
+## Awards
+
+- **Winner**, 42dot MCMOT Challenge  
+  2022 Korean Conference on Computer Vision (KCCV) Workshop  
+  Organized by 42dot  
+  [Challenge Page](https://42dot.ai/akit/dataset/challenge/mcmot)
+
+- **President's Award**, KISTI Research Data/AI Analysis Competition  
+  Dec. 2021  
+  Organized by Korea Institute of Science and Technology Information (KISTI)
+---
+
 ## Research Interests
 
 - 2D/3D Multi-Object Tracking  
-- Transformer for Vision Tasks  
-- Semantic Scene Understanding  
+- Transformer-based Vision Models  
+- 3D Semantic Scene Understanding
+  
 ---
 
 ## Publications
@@ -61,17 +74,25 @@ Computer Vision Lab, Department of Computer Engineering
 
 ## Projects
 
-- **Dual-Path Transformer for Multi-Object Tracking**  
-  Transformer-based architecture designed to decouple appearance and identity cues for robust temporal modeling.
+### 3D Multi-Object Tracking  
+**Nov. 2023 – Jun. 2024**, Chungnam National University  
+Developed a 3D MOT system that tracks multiple objects in 3D space using data captured from multiple camera views. The system first performs 3D object detection, followed by coordinate-based tracking using only predicted 3D positions.  
+**Skills**: Computer Vision, Artificial Intelligence
 
-- **Scene-Aware 3D Semantic Completion**  
-  A semantic scene completion model using view-aware projection and adaptive decoding strategies.
+### Multi-Camera Multi-Object Detection and Tracking Software  
+**May 2023 – Dec. 2023**, Funded by ETRI  
+Built a deep learning-based software pipeline for tracking multiple objects from road-side CCTV footage. Focused on scalable multi-camera fusion and real-time detection/tracking optimization.  
+**Skills**: Computer Vision, PyTorch
 
-- **Geometry-Aware 3D MOT**  
-  Online 3D tracking framework with geometry-relational attention mechanisms and no reliance on Re-ID features.
+### High-Precision Localization and Motion Reconstruction Software  
+**May 2022 – Nov. 2022**, Funded by ETRI  
+Developed a Re-Identification algorithm for consistent tracking of identical objects across multiple CCTV camera views.  
+**Skills**: Python, Computer Vision, PyTorch
 
-- **Light Field Image Super-Resolution**  
-  Super-resolving angular and spatial dimensions of light field images with multi-level structures.
+### Robust Feature Detection for High-Precision Motion Estimation  
+**Apr. 2021 – Nov. 2021**, Funded by ETRI  
+Researched robust feature extraction techniques to enable accurate motion estimation in multi-camera tracking environments.  
+**Skills**: Python, Computer Vision, PyTorch
 
 ---
 
@@ -80,11 +101,11 @@ Computer Vision Lab, Department of Computer Engineering
 - **Email**: hyunseop95@gmail.com  
 - **Blog**: [https://blog.naver.com/hyunseop95](https://blog.naver.com/hyunseop95)  
 - **LinkedIn**: [https://www.linkedin.com/in/hyunseop-kim-488b3510a/](https://www.linkedin.com/in/hyunseop-kim-488b3510a/)  
-- **Google Scholar**: [https://scholar.google.com/citations?user=XXXXXXX](https://scholar.google.com/citations?user=XXXXXXX) *(Insert actual ID if available)*  
-- **OpenReview**: [https://openreview.net/profile?id=XXXXXXX](https://openreview.net/profile?id=XXXXXXX) *(Insert actual ID if available)*  
+- **Google Scholar**: [https://scholar.google.co.kr/citations?user=CoztfFkAAAAJ&hl=en](https://scholar.google.co.kr/citations?user=CoztfFkAAAAJ&hl=en)
+- **OpenReview**: [https://openreview.net/profile?id=%7EHyunseop_Kim2](https://openreview.net/profile?id=%7EHyunseop_Kim2)
 
 ---
 
-## Misc.
+## Miscellaneous
 
-Feel free to check out my GitHub repositories for code implementations of academic projects and experimental prototypes.
+Check out my GitHub repositories for implementations of academic projects and prototypes.
