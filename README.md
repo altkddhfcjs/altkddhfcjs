@@ -102,7 +102,7 @@ Computer Vision Lab, Department of Computer Engineering
 ## Research Interests
 
 - 2D/3D Multi-Object Tracking  
-- Transformer-based Vision Models  
+- 3D Perceptron  
 - 3D Semantic Scene Understanding
   
 ---
@@ -111,12 +111,12 @@ Computer Vision Lab, Department of Computer Engineering
 
 ### 3D Multi-Object Tracking  
 **Nov. 2023 – Jun. 2024**, Chungnam National University  
-Developed a 3D MOT system that tracks multiple objects in 3D space using data captured from multiple camera views. The system first performs 3D object detection, followed by coordinate-based tracking using only predicted 3D positions.  
+Developed a 3D MOT system that tracks multiple objects in 3D space using data captured from multi-camera views. The system first performs 3D object detection, followed by coordinate-based tracking using only predicted 3D positions.  
 **Skills**: Computer Vision, Artificial Intelligence
 
 ### Multi-Camera Multi-Object Detection and Tracking Software  
 **May 2023 – Dec. 2023**, Funded by ETRI  
-Built a deep learning-based software pipeline for tracking multiple objects from road-side CCTV footage. Focused on scalable multi-camera fusion and real-time detection/tracking optimization.  
+Built a deep learning-based software pipeline for tracking multiple objects from roadside CCTV footage. Focused on scalable multi-camera fusion and real-time detection/tracking optimization.  
 **Skills**: Computer Vision, PyTorch
 
 ### High-Precision Localization and Motion Reconstruction Software  
