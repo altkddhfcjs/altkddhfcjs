@@ -36,7 +36,7 @@ Computer Vision Lab, Department of Computer Engineering
   _IEEE Access_, 2023, H. Kim, H.J. Lee, H. Kim, S.G. Jeong, Y.J. Koh
 
 - **Local Connectivity-Based Density Estimation for Face Clustering**  
-  _CVPR Workshop on Learning with Limited Labels_, 2023, J. Shin, H.J. Lee, H. Kim, J.H. Baek, D. Kim, Y.J. Koh
+  _CVPR 2023_, J. Shin, H.J. Lee, H. Kim, J.H. Baek, D. Kim, Y.J. Koh
 
 - **Light Field Image Super‑Resolution Based on Multilevel Structures**  
   _IEEE Access_, 2022, H.J. Park, J. Shin, H. Kim, Y.J. Koh
