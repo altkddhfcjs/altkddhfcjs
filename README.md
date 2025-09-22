@@ -66,37 +66,6 @@ Computer Vision Lab, Department of Computer Engineering
   Dec. 2021  
   Organized by Korea Institute of Science and Technology Information (KISTI)
 ---
-
-## Research Interests
-
-- 2D/3D Multi-Object Tracking  
-- Transformer-based Vision Models  
-- 3D Semantic Scene Understanding
-  
----
-
-## Experience
-
-- **Research Assistant**  
-  Computer Vision Lab, Chungnam National University  
-  Mar. 2021 – Present
-
-- **Intern**  
-  Korea Astronomy and Space Science Institute (KASI)  
-  Jun. 2019 – Apr. 2020
-
----
-
-## Awards
-
-- **Winner**, 42dot MCMOT Challenge  
-  2022 Korean Conference on Computer Vision (KCCV) Workshop  
-  Organized by 42dot  
-  [Challenge Page](https://42dot.ai/akit/dataset/challenge/mcmot)
-
-- **President's Award**, KISTI Research Data/AI Analysis Competition  
-  Dec. 2021  
-  Organized by Korea Institute of Science and Technology Information (KISTI)
 ---
 
 ## Research Interests
