@@ -62,7 +62,7 @@ Computer Vision Lab, Department of Computer Engineering
   Organized by 42dot  
   [Challenge Page](https://42dot.ai/akit/dataset/challenge/mcmot)
 
-- **President's Award**, KISTI Research Data/AI Analysis Competition  
+- **KISTI President's Award**, KISTI Research Data/AI Analysis Competition  
   Dec. 2021  
   Organized by Korea Institute of Science and Technology Information (KISTI)
 ---
