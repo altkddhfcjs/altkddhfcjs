@@ -109,22 +109,22 @@ Computer Vision Lab, Department of Computer Engineering
 
 ## Projects
 
-### 3D Multi-Object Tracking  
+#### 3D Multi-Object Tracking  
 **Nov. 2023 – Jun. 2024**, Chungnam National University  
 Developed a 3D MOT system that tracks multiple objects in 3D space using data captured from multi-camera views. The system first performs 3D object detection, followed by coordinate-based tracking using only predicted 3D positions.  
 **Skills**: Computer Vision, Artificial Intelligence
 
-### Multi-Camera Multi-Object Detection and Tracking Software  
+#### Multi-Camera Multi-Object Detection and Tracking Software  
 **May 2023 – Dec. 2023**, Funded by ETRI  
 Built a deep learning-based software pipeline for tracking multiple objects from roadside CCTV footage. Focused on scalable multi-camera fusion and real-time detection/tracking optimization.  
 **Skills**: Computer Vision, PyTorch
 
-### High-Precision Localization and Motion Reconstruction Software  
+#### High-Precision Localization and Motion Reconstruction Software  
 **May 2022 – Nov. 2022**, Funded by ETRI  
 Developed a Re-Identification algorithm for consistent tracking of identical objects across multiple CCTV camera views.  
 **Skills**: Python, Computer Vision, PyTorch
 
-### Robust Feature Detection for High-Precision Motion Estimation  
+#### Robust Feature Detection for High-Precision Motion Estimation  
 **Apr. 2021 – Nov. 2021**, Funded by ETRI  
 Researched robust feature extraction techniques to enable accurate motion estimation in multi-camera tracking environments.  
 **Skills**: Python, Computer Vision, PyTorch
