@@ -110,8 +110,8 @@ Computer Vision Lab, Department of Computer Engineering
 ## Projects
 
 #### 3D Multi-Object Tracking  
-**Nov. 2023 – Jun. 2024**, Chungnam National University  
-Developed a 3D MOT system that tracks multiple objects in 3D space using data captured from multi-camera views. The system first performs 3D object detection, followed by coordinate-based tracking using only predicted 3D positions.  
+**Nov. 2023 – Jun. 2024**, Funded by 42dot
+Developed a 3D MOT system that tracks multiple objects in 3D space using data captured from multi-camera views or LiDAR sensors. The system first performs 3D object detection, followed by coordinate-based tracking using only predicted 3D positions.  
 
 #### Multi-Camera Multi-Object Detection and Tracking Software  
 **May 2023 – Dec. 2023**, Funded by ETRI  
