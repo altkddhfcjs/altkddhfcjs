@@ -55,8 +55,27 @@ Computer Vision Lab, Department of Computer Engineering
 
 ## Publications
 
+- **Dual-Path Temporal Decoder for End-to-End Multi-Object Tracking**  
+  _NeurIPS 2025_, H. Kim, J. Jeong, H. Kim, Y.J. Koh
+
 - **GRAE‑3DMOT**: Geometry Relation‑Aware Encoder for Online 3D Multi‑Object Tracking  
-  _CVPR 2025_, H. Kim, . ㅓ## Experience
+  _CVPR 2025_, H. Kim, H.J. Lee, Y. Lee, J. Lee, H. Kim, Y.J. Koh
+
+- **SOAP**: Vision-Centric 3D Semantic Scene Completion with Scene‑Adaptive Decoder and Occluded Region‑Aware View Projection  
+  _CVPR 2025_, H.J. Lee, Y.J. Koh, H. Kim, H. Kim, Y. Lee, J. Lee
+
+- **Joint Appearance and Motion Model With Temporal Transformer for Multiple Object Tracking**  
+  _IEEE Access_, 2023, H. Kim, H.J. Lee, H. Kim, S.G. Jeong, Y.J. Koh
+
+- **Local Connectivity-Based Density Estimation for Face Clustering**  
+  _CVPR Workshop on Learning with Limited Labels_, 2023, J. Shin, H.J. Lee, H. Kim, J.H. Baek, D. Kim, Y.J. Koh
+
+- **Light Field Image Super‑Resolution Based on Multilevel Structures**  
+  _IEEE Access_, 2022, H.J. Park, J. Shin, H. Kim, Y.J. Koh
+
+---
+
+## Experience
 
 - **Research Assistant**  
   Computer Vision Lab, Chungnam National University  
@@ -86,28 +105,6 @@ Computer Vision Lab, Department of Computer Engineering
 - Transformer-based Vision Models  
 - 3D Semantic Scene Understanding
   
----
-
-## Publications
-
-- **Dual-Path Temporal Decoder for End-to-End Multi-Object Tracking**  
-  _NeurIPS 2025_, H. Kim, J. Jeong, H. Kim, Y.J. Koh
-
-- **GRAE‑3DMOT**: Geometry Relation‑Aware Encoder for Online 3D Multi‑Object Tracking  
-  _CVPR 2025_, H. Kim, H.J. Lee, Y. Lee, J. Lee, H. Kim, Y.J. Koh
-
-- **SOAP**: Vision-Centric 3D Semantic Scene Completion with Scene‑Adaptive Decoder and Occluded Region‑Aware View Projection  
-  _CVPR 2025_, H.J. Lee, Y.J. Koh, H. Kim, H. Kim, Y. Lee, J. Lee
-
-- **Joint Appearance and Motion Model With Temporal Transformer for Multiple Object Tracking**  
-  _IEEE Access_, 2023, H. Kim, H.J. Lee, H. Kim, S.G. Jeong, Y.J. Koh
-
-- **Local Connectivity-Based Density Estimation for Face Clustering**  
-  _CVPR Workshop on Learning with Limited Labels_, 2023, J. Shin, H.J. Lee, H. Kim, J.H. Baek, D. Kim, Y.J. Koh
-
-- **Light Field Image Super‑Resolution Based on Multilevel Structures**  
-  _IEEE Access_, 2022, H.J. Park, J. Shin, H. Kim, Y.J. Koh
-
 ---
 
 ## Projects
