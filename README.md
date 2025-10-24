@@ -66,7 +66,6 @@ Computer Vision Lab, Department of Computer Engineering
   Dec. 2021  
   Organized by Korea Institute of Science and Technology Information (KISTI)
 ---
----
 
 ## Research Interests
 
