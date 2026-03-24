@@ -56,7 +56,10 @@ Computer Vision Lab, Department of Computer Engineering
 ---
 
 ## Awards
-
+- **Outstanding Researcher Award**, 2025 CNU Research Fair for Future Academic Generations
+  Jan. 2025
+  Organized by Chungnam National University (CNU)
+  
 - **Winner**, 42dot MCMOT Challenge  
   2022 Korean Conference on Computer Vision (KCCV) Workshop  
   Organized by 42dot  
