@@ -23,6 +23,9 @@ Computer Vision Lab, Department of Computer Engineering
 
 ## Publications
 
+- **SatCoRe: Satellite-guided Complementary Reliability Propagation for 3D Semantic Scene Completion**  
+  _ACCV 2026_, G. Kim, H. Kim, H. Kim, Y.J. Koh
+  
 - **Dual-Path Temporal Decoder for End-to-End Multi-Object Tracking**  
   _NeurIPS 2025_, H. Kim, J. Jeong, H. Kim, Y.J. Koh
 
